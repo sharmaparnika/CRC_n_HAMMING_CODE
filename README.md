@@ -1,4 +1,4 @@
-# CRC_n_HAMMING_CODE
+# CRC n HAMMING CODE
 
 AIM: Simulation of error detection & correction code (CRC, Hamming code) 
 
